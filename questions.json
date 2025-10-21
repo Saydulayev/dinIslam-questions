@@ -388,5 +388,18 @@
     "correctIndex": 2,
     "category": "Хадисы",
     "difficulty": "medium",
-  }
+  },
+  {
+    "id": "q_al_qarib",
+    "text": "Что означает имя Аллаха аль-Къориб?",
+    "answers": [
+        { "id": "a1", "text": "Большой" },
+        { "id": "a2", "text": "Близкий" },
+        { "id": "a3", "text": "Могучий" },
+        { "id": "a4", "text": "Мудрый" }
+    ],
+    "correctIndex": 1,
+    "category": "Акыда",
+    "difficulty": "medium"
+}
 ]
