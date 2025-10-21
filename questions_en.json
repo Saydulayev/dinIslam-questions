@@ -388,5 +388,18 @@
     "correctIndex": 2,
     "category": "Hadith",
     "difficulty": "medium",
-  }
+  },
+  {
+    "id": "q_al_qarib",
+    "text": "What does the name of Allah al-Qarib mean?",
+    "answers": [
+        { "id": "a1", "text": "Big" },
+        { "id": "a2", "text": "Close" },
+        { "id": "a3", "text": "Mighty" },
+        { "id": "a4", "text": "Wise" }
+    ],
+    "correctIndex": 1,
+    "category": "Aqidah",
+    "difficulty": "medium"
+}
 ]
