@@ -401,5 +401,18 @@
     "correctIndex": 1,
     "category": "Aqidah",
     "difficulty": "medium"
+  },
+  {
+    "id": "q32",
+    "text": "What is the meaning of Allah's name Al-Muqtadir?",
+    "answers": [
+      { "id": "a1", "text": "The Almighty" },
+      { "id": "a2", "text": "The Guardian" },
+      { "id": "a3", "text": "The All-Knowing" },
+      { "id": "a4", "text": "The Withholder, The Constrictor" }
+    ],
+    "correctIndex": 0,
+    "category": "Aqidah",
+    "difficulty": "medium"
   }
 ]
