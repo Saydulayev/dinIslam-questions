@@ -401,5 +401,18 @@
     "correctIndex": 1,
     "category": "Акыда",
     "difficulty": "medium"
+  },
+  {
+    "id": "q32",
+    "text": "Имя Аллаха аль Мукътадир?",
+    "answers": [
+      { "id": "a1", "text": "Всемогущий" },
+      { "id": "a2", "text": "Хранитель" },
+      { "id": "a3", "text": "Ведающий" },
+      { "id": "a4", "text": "Удерживающий, сжимающий" }
+    ],
+    "correctIndex": 0,
+    "category": "Акыда",
+    "difficulty": "medium"
   }
 ]
