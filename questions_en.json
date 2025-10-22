@@ -803,21 +803,8 @@
   "category": "Hajj",
   "difficulty": "medium"
 },
-  {
-  "id": "q63",
-  "text": "In which year of Hijra was the Adhan (call to prayer) established?",
-  "answers": [
-    { "id": "a1", "text": "In the 4th year" },
-    { "id": "a2", "text": "In the 3rd year" },
-    { "id": "a3", "text": "In the 1st year" },
-    { "id": "a4", "text": "In the 2nd year" }
-  ],
-  "correctIndex": 2,
-  "category": "Prayer",
-  "difficulty": "medium"
-},
 {
-  "id": "q64",
+  "id": "q63",
   "text": "In which year of Hijra did Muslims begin fasting during Ramadan?",
   "answers": [
     { "id": "a1", "text": "In the 4th year" },
@@ -830,7 +817,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q65",
+  "id": "q64",
   "text": "In which year of Hijra was Hajj prescribed?",
   "answers": [
     { "id": "a1", "text": "In the 7th year" },
@@ -843,7 +830,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q66",
+  "id": "q65",
   "text": "Which Muslim scholar wrote the first Seerah (biography of the Prophet ﷺ)?",
   "answers": [
     { "id": "a1", "text": "Ibn Hisham" },
@@ -856,7 +843,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q67",
+  "id": "q66",
   "text": "According to the narration of Aisha (may Allah be pleased with her), after how long following Al-Mi'raj did Muslims start performing prayer as we do today?",
   "answers": [
     { "id": "a1", "text": "Two months after Hijra" },
@@ -869,7 +856,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q68",
+  "id": "q67",
   "text": "What is the name of the sitting position in the first Tashahhud?",
   "answers": [
     { "id": "a1", "text": "Tawarruk" },
@@ -882,7 +869,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q69",
+  "id": "q68",
   "text": "In Madinah during the time of the Prophet ﷺ, it used to happen that during the morning Adhan, additional words were said: what were they?",
   "answers": [
     { "id": "a1", "text": "Dress warmly" },
@@ -895,7 +882,7 @@
   "difficulty": "medium"
 },
   {
-  "id": "q70",
+  "id": "q69",
   "text": "In the hadith, the Duha prayer is called the prayer of...",
   "answers": [
     { "id": "a1", "text": "The sincerely devoted" },
@@ -908,7 +895,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q71",
+  "id": "q70",
   "text": "Surah Al-‘Adiyat was revealed about me — said Khalid ibn al-Walid — and there was no time dearer to me than waiting to attack a settlement in the pre-dawn darkness, trembling from the cold. What were they waiting for?",
   "answers": [
     { "id": "a1", "text": "The dawn, so it would be easier to attack" },
@@ -921,7 +908,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q72",
+  "id": "q71",
   "text": "This hadith is an example of which type of Sunnah: ‘Aisha (r.a.) said — The Prophet ﷺ used to help his wives, and when the time for prayer came, he would stand up and perform Salah.",
   "answers": [
     { "id": "a1", "text": "Qawli (verbal Sunnah)" },
@@ -934,7 +921,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q73",
+  "id": "q72",
   "text": "A collective obligation that is imposed not on an individual but on the Muslim community as a whole is called...",
   "answers": [
     { "id": "a1", "text": "Fard ‘Ayn" },
@@ -947,7 +934,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q74",
+  "id": "q73",
   "text": "The Prophet ﷺ swore that Allah shows mercy only to the one who himself shows mercy. The companions said: “But we all show mercy.” The Prophet ﷺ replied: “Mercy means...”",
   "answers": [
     { "id": "a1", "text": "Showing kindness to one's friends and companions" },
@@ -960,7 +947,7 @@
   "difficulty": "medium"
 },
 {
-  "id": "q75",
+  "id": "q74",
   "text": "In which month and on which day is the fast of ‘Ashura observed?",
   "answers": [
     { "id": "a1", "text": "Rajab, 9th day" },
