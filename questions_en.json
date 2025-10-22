@@ -802,5 +802,96 @@
   "correctIndex": 3,
   "category": "Hajj",
   "difficulty": "medium"
+},
+  {
+  "id": "q63",
+  "text": "In which year of Hijra was the Adhan (call to prayer) established?",
+  "answers": [
+    { "id": "a1", "text": "In the 4th year" },
+    { "id": "a2", "text": "In the 3rd year" },
+    { "id": "a3", "text": "In the 1st year" },
+    { "id": "a4", "text": "In the 2nd year" }
+  ],
+  "correctIndex": 2,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q64",
+  "text": "In which year of Hijra did Muslims begin fasting during Ramadan?",
+  "answers": [
+    { "id": "a1", "text": "In the 4th year" },
+    { "id": "a2", "text": "In the 3rd year" },
+    { "id": "a3", "text": "In the 2nd year" },
+    { "id": "a4", "text": "In the 5th year" }
+  ],
+  "correctIndex": 2,
+  "category": "Fasting",
+  "difficulty": "medium"
+},
+{
+  "id": "q65",
+  "text": "In which year of Hijra was Hajj prescribed?",
+  "answers": [
+    { "id": "a1", "text": "In the 7th year" },
+    { "id": "a2", "text": "In the 8th year" },
+    { "id": "a3", "text": "In the 9th year" },
+    { "id": "a4", "text": "In the 6th year" }
+  ],
+  "correctIndex": 2,
+  "category": "Hajj",
+  "difficulty": "medium"
+},
+{
+  "id": "q66",
+  "text": "Which Muslim scholar wrote the first Seerah (biography of the Prophet ﷺ)?",
+  "answers": [
+    { "id": "a1", "text": "Ibn Hisham" },
+    { "id": "a2", "text": "As-Sawri" },
+    { "id": "a3", "text": "Ibn al-Qayyim" },
+    { "id": "a4", "text": "Mubarakfuri" }
+  ],
+  "correctIndex": 0,
+  "category": "History",
+  "difficulty": "medium"
+},
+{
+  "id": "q67",
+  "text": "According to the narration of Aisha (may Allah be pleased with her), after how long following Al-Mi'raj did Muslims start performing prayer as we do today?",
+  "answers": [
+    { "id": "a1", "text": "Two months after Hijra" },
+    { "id": "a2", "text": "One month after Hijra" },
+    { "id": "a3", "text": "On the second day of Hijra" },
+    { "id": "a4", "text": "Immediately after Al-Mi'raj" }
+  ],
+  "correctIndex": 0,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q68",
+  "text": "What is the name of the sitting position in the first Tashahhud?",
+  "answers": [
+    { "id": "a1", "text": "Tawarruk" },
+    { "id": "a2", "text": "Iftirash" },
+    { "id": "a3", "text": "Istisqa" },
+    { "id": "a4", "text": "Qiyam" }
+  ],
+  "correctIndex": 1,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q69",
+  "text": "In Madinah during the time of the Prophet ﷺ, it used to happen that during the morning Adhan, additional words were said: what were they?",
+  "answers": [
+    { "id": "a1", "text": "Dress warmly" },
+    { "id": "a2", "text": "March is announced" },
+    { "id": "a3", "text": "Stay in your homes" },
+    { "id": "a4", "text": "Receive zakat dirhams in the mosque" }
+  ],
+  "correctIndex": 2,
+  "category": "Prayer",
+  "difficulty": "medium"
 }
 ]
