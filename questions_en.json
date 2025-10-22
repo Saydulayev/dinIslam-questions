@@ -596,5 +596,81 @@
   "correctIndex": 2,
   "category": "Salah",
   "difficulty": "medium"
+},
+  {
+  "id": "q47",
+  "text": "What is the reward for throwing pebbles during Hajj?",
+  "answers": [
+    { "id": "a1", "text": "Freeing one slave for each pebble" },
+    { "id": "a2", "text": "Forgiveness of one major sin for each pebble" },
+    { "id": "a3", "text": "Forgiveness of all minor sins" },
+    { "id": "a4", "text": "Freeing twenty-one slaves" }
+  ],
+  "correctIndex": 1,
+  "category": "Hajj",
+  "difficulty": "medium"
+},
+{
+  "id": "q48",
+  "text": "Shaving the hair after completing Hajj is…",
+  "answers": [
+    { "id": "a1", "text": "For every hair, one good deed and one sin erased" },
+    { "id": "a2", "text": "Freeing ten slaves" },
+    { "id": "a3", "text": "Forgiveness of major sins" },
+    { "id": "a4", "text": "Forgiveness of minor sins" }
+  ],
+  "correctIndex": 0,
+  "category": "Hajj",
+  "difficulty": "medium"
+},
+{
+  "id": "q49",
+  "text": "The Hajj accepted by Allah and performed according to all rules is called…",
+  "answers": [
+    { "id": "a1", "text": "Hajj al-Ifrad" },
+    { "id": "a2", "text": "Hajj al-Qiran" },
+    { "id": "a3", "text": "Hajj at-Tamattu‘" },
+    { "id": "a4", "text": "Hajj Mabrur" }
+  ],
+  "correctIndex": 3,
+  "category": "Hajj",
+  "difficulty": "medium"
+},
+{
+  "id": "q50",
+  "text": "If Muslims perform Eid prayer in the morning on Friday, is the Jumu‘ah prayer still obligatory for them?",
+  "answers": [
+    { "id": "a1", "text": "Yes, it is obligatory" },
+    { "id": "a2", "text": "No, it is not obligatory" }
+  ],
+  "correctIndex": 1,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q51",
+  "text": "The congregational prayer for rain during drought is called…",
+  "answers": [
+    { "id": "a1", "text": "Istikhara" },
+    { "id": "a2", "text": "Istisqa" },
+    { "id": "a3", "text": "Wasilah" },
+    { "id": "a4", "text": "Ashura al-Muharram" }
+  ],
+  "correctIndex": 1,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q52",
+  "text": "An authentic hadith with a chain of narrators going back to the Prophet Muhammad (peace be upon him) is called…",
+  "answers": [
+    { "id": "a1", "text": "Marfu‘" },
+    { "id": "a2", "text": "Mudtarib" },
+    { "id": "a3", "text": "Gharib" },
+    { "id": "a4", "text": "Mursal" }
+  ],
+  "correctIndex": 0,
+  "category": "Hadith",
+  "difficulty": "medium"
 }
 ]
