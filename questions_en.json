@@ -414,5 +414,96 @@
     "correctIndex": 0,
     "category": "Aqidah",
     "difficulty": "medium"
-  }
+  },
+  {
+  "id": "q33",
+  "text": "Al-Bayt al-Ma'mur is the heavenly house where 70,000 angels enter daily and never return. Where is it located?",
+  "answers": [
+    { "id": "a1", "text": "Directly above the Kaaba" },
+    { "id": "a2", "text": "On the first heaven above the Kaaba" },
+    { "id": "a3", "text": "On the third heaven" },
+    { "id": "a4", "text": "On the seventh heaven" }
+  ],
+  "correctIndex": 3,
+  "category": "Aqidah",
+  "difficulty": "medium"
+},
+{
+  "id": "q34",
+  "text": "Surah 37:1 — “By those who line up in ranks (as-Saffat)...” — Who is being referred to?",
+  "answers": [
+    { "id": "a1", "text": "Participants of the Battle of Badr" },
+    { "id": "a2", "text": "The angels" },
+    { "id": "a3", "text": "Those who pledged under the tree" },
+    { "id": "a4", "text": "Participants of the Battle of Mu'tah" }
+  ],
+  "correctIndex": 1,
+  "category": "Qur'an",
+  "difficulty": "medium"
+},
+{
+  "id": "q35",
+  "text": "What happened to the tree under which the companions pledged allegiance (Bay'at ar-Ridwan)?",
+  "answers": [
+    { "id": "a1", "text": "It was cut down" },
+    { "id": "a2", "text": "It still blooms today" },
+    { "id": "a3", "text": "It dried up" },
+    { "id": "a4", "text": "People still take oaths under it" }
+  ],
+  "correctIndex": 0,
+  "category": "Seerah",
+  "difficulty": "medium"
+},
+{
+  "id": "q36",
+  "text": "Who ordered the cutting down of the tree under which the companions took the pledge?",
+  "answers": [
+    { "id": "a1", "text": "Umar" },
+    { "id": "a2", "text": "Ali" },
+    { "id": "a3", "text": "Caliph Marwan" },
+    { "id": "a4", "text": "The governor of Makkah" }
+  ],
+  "correctIndex": 0,
+  "category": "Seerah",
+  "difficulty": "medium"
+},
+{
+  "id": "q37",
+  "text": "Is the following supplication a sign of monotheism (Tawheed): “O Allah, You are ash-Shafi (The Healer), heal me”?",
+  "answers": [
+    { "id": "a1", "text": "No" },
+    { "id": "a2", "text": "Yes" },
+    { "id": "a3", "text": "I don't know" },
+    { "id": "a4", "text": "Depends on intention" }
+  ],
+  "correctIndex": 1,
+  "category": "Aqidah",
+  "difficulty": "medium"
+},
+{
+  "id": "q38",
+  "text": "What does the Name of Allah 'Al-Qarib' mean?",
+  "answers": [
+    { "id": "a1", "text": "The Great" },
+    { "id": "a2", "text": "The Near" },
+    { "id": "a3", "text": "The Mighty" },
+    { "id": "a4", "text": "The Wise" }
+  ],
+  "correctIndex": 1,
+  "category": "Aqidah",
+  "difficulty": "easy"
+},
+{
+  "id": "q39",
+  "text": "Which Surah is called 'As-Sab'ul-Mathani' (The Seven Oft-Repeated)?",
+  "answers": [
+    { "id": "a1", "text": "Ihsan" },
+    { "id": "a2", "text": "Al-Fatihah" },
+    { "id": "a3", "text": "At-Tawbah" },
+    { "id": "a4", "text": "Al-Buruj" }
+  ],
+  "correctIndex": 1,
+  "category": "Qur'an",
+  "difficulty": "medium"
+}
 ]
