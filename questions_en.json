@@ -672,5 +672,135 @@
   "correctIndex": 0,
   "category": "Hadith",
   "difficulty": "medium"
+},
+  {
+  "id": "q53",
+  "text": "The Quran is divided into long, medium, and short surahs. How many long surahs are there?",
+  "answers": [
+    { "id": "a1", "text": "6" },
+    { "id": "a2", "text": "8" },
+    { "id": "a3", "text": "7" },
+    { "id": "a4", "text": "9" }
+  ],
+  "correctIndex": 2,
+  "category": "Quran",
+  "difficulty": "easy"
+},
+{
+  "id": "q54",
+  "text": "The surahs called Al-Mathani (frequently recited) are the surahs located...",
+  "answers": [
+    { "id": "a1", "text": "Between the long and short surahs" },
+    { "id": "a2", "text": "Between the long and the detailed (Mufassal) surahs" },
+    { "id": "a3", "text": "Between the medium and short surahs" },
+    { "id": "a4", "text": "Starting from the last hizb (Surah Al-Fajr)" }
+  ],
+  "correctIndex": 1,
+  "category": "Quran",
+  "difficulty": "medium"
+},
+{
+  "id": "q55",
+  "text": "Under which caliph were hadiths first collected and written down?",
+  "answers": [
+    { "id": "a1", "text": "Umar ibn Abdul Aziz" },
+    { "id": "a2", "text": "Uthman" },
+    { "id": "a3", "text": "Marwan" },
+    { "id": "a4", "text": "Muawiyah" }
+  ],
+  "correctIndex": 0,
+  "category": "Hadith",
+  "difficulty": "medium"
+},
+{
+  "id": "q56",
+  "text": "A hadith that begins with the words 'Do you know what your Lord has said' is called...",
+  "answers": [
+    { "id": "a1", "text": "Marfu‘" },
+    { "id": "a2", "text": "Mursal" },
+    { "id": "a3", "text": "Hasan" },
+    { "id": "a4", "text": "Qudsi" }
+  ],
+  "correctIndex": 3,
+  "category": "Hadith",
+  "difficulty": "medium"
+},
+{
+  "id": "q57",
+  "text": "When entering the mosque, one can determine from a person's sitting posture which Tashahhud it is — the first or the second. During the last Tashahhud, the worshipper sits on the thigh, placing the left leg under the right shin and raising the right foot vertically. What is this posture called?",
+  "answers": [
+    { "id": "a1", "text": "Iftirash" },
+    { "id": "a2", "text": "Tawarruk" },
+    { "id": "a3", "text": "Musalla" },
+    { "id": "a4", "text": "Istihsan" }
+  ],
+  "correctIndex": 1,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q58",
+  "text": "The night prayers performed after the Isha prayer are called...",
+  "answers": [
+    { "id": "a1", "text": "Qiyam al-Layl" },
+    { "id": "a2", "text": "Tahajjud" },
+    { "id": "a3", "text": "Tarawih" },
+    { "id": "a4", "text": "All of these categories" }
+  ],
+  "correctIndex": 3,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q59",
+  "text": "The best time to perform Tahajjud prayer is...",
+  "answers": [
+    { "id": "a1", "text": "Right after midnight" },
+    { "id": "a2", "text": "Right after Isha prayer" },
+    { "id": "a3", "text": "In the last third of the night" },
+    { "id": "a4", "text": "Close to Fajr" }
+  ],
+  "correctIndex": 2,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q60",
+  "text": "Maghrib is at 20:00, Fajr at 05:00 — there are 9 hours between them. From what time is the best period for Tahajjud?",
+  "answers": [
+    { "id": "a1", "text": "12:00" },
+    { "id": "a2", "text": "01:00" },
+    { "id": "a3", "text": "02:00" },
+    { "id": "a4", "text": "03:00" }
+  ],
+  "correctIndex": 2,
+  "category": "Prayer",
+  "difficulty": "medium"
+},
+{
+  "id": "q61",
+  "text": "Before the revelation of the Quran to Prophet Muhammad (peace be upon him), this man was a Hanif (monotheist) and later accepted Islam. The Prophet saw him in a dream in Paradise on the second level. Who was he?",
+  "answers": [
+    { "id": "a1", "text": "Waraqah" },
+    { "id": "a2", "text": "Zayd ibn Amr ibn Nufayl" },
+    { "id": "a3", "text": "Abu Kuhafa at-Taymi al-Qurashi" },
+    { "id": "a4", "text": "Amr ibn al-As" }
+  ],
+  "correctIndex": 1,
+  "category": "History",
+  "difficulty": "medium"
+},
+{
+  "id": "q62",
+  "text": "What is the reward for a person who performs Sa‘i between the hills of Safa and Marwah during Hajj?",
+  "answers": [
+    { "id": "a1", "text": "Freeing 7 slaves" },
+    { "id": "a2", "text": "Freeing 1 slave" },
+    { "id": "a3", "text": "Freeing 10 slaves" },
+    { "id": "a4", "text": "Freeing 70 slaves" }
+  ],
+  "correctIndex": 3,
+  "category": "Hajj",
+  "difficulty": "medium"
 }
 ]
