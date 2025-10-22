@@ -893,5 +893,83 @@
   "correctIndex": 2,
   "category": "Prayer",
   "difficulty": "medium"
+},
+  {
+  "id": "q70",
+  "text": "In the hadith, the Duha prayer is called the prayer of...",
+  "answers": [
+    { "id": "a1", "text": "The sincerely devoted" },
+    { "id": "a2", "text": "The repentant" },
+    { "id": "a3", "text": "The believers" },
+    { "id": "a4", "text": "The foremost" }
+  ],
+  "correctIndex": 1,
+  "category": "Salah",
+  "difficulty": "medium"
+},
+{
+  "id": "q71",
+  "text": "Surah Al-‘Adiyat was revealed about me — said Khalid ibn al-Walid — and there was no time dearer to me than waiting to attack a settlement in the pre-dawn darkness, trembling from the cold. What were they waiting for?",
+  "answers": [
+    { "id": "a1", "text": "The dawn, so it would be easier to attack" },
+    { "id": "a2", "text": "For the residents to leave their homes" },
+    { "id": "a3", "text": "The Adhan" },
+    { "id": "a4", "text": "The sunrise, to offer Islam or the payment of Jizyah" }
+  ],
+  "correctIndex": 2,
+  "category": "History",
+  "difficulty": "medium"
+},
+{
+  "id": "q72",
+  "text": "This hadith is an example of which type of Sunnah: ‘Aisha (r.a.) said — The Prophet ﷺ used to help his wives, and when the time for prayer came, he would stand up and perform Salah.",
+  "answers": [
+    { "id": "a1", "text": "Qawli (verbal Sunnah)" },
+    { "id": "a2", "text": "Fi‘li (action-based Sunnah)" },
+    { "id": "a3", "text": "Taqriri (approved Sunnah)" },
+    { "id": "a4", "text": "Qadari" }
+  ],
+  "correctIndex": 1,
+  "category": "Sunnah",
+  "difficulty": "medium"
+},
+{
+  "id": "q73",
+  "text": "A collective obligation that is imposed not on an individual but on the Muslim community as a whole is called...",
+  "answers": [
+    { "id": "a1", "text": "Fard ‘Ayn" },
+    { "id": "a2", "text": "Mandub" },
+    { "id": "a3", "text": "Mubah" },
+    { "id": "a4", "text": "Fard Kifayah" }
+  ],
+  "correctIndex": 3,
+  "category": "Fiqh",
+  "difficulty": "medium"
+},
+{
+  "id": "q74",
+  "text": "The Prophet ﷺ swore that Allah shows mercy only to the one who himself shows mercy. The companions said: “But we all show mercy.” The Prophet ﷺ replied: “Mercy means...”",
+  "answers": [
+    { "id": "a1", "text": "Showing kindness to one's friends and companions" },
+    { "id": "a2", "text": "To one’s household" },
+    { "id": "a3", "text": "To all Muslims" },
+    { "id": "a4", "text": "To all people, even non-believers" }
+  ],
+  "correctIndex": 3,
+  "category": "Akhlaq",
+  "difficulty": "medium"
+},
+{
+  "id": "q75",
+  "text": "In which month and on which day is the fast of ‘Ashura observed?",
+  "answers": [
+    { "id": "a1", "text": "Rajab, 9th day" },
+    { "id": "a2", "text": "Dhul-Hijjah, 10th day" },
+    { "id": "a3", "text": "Dhul-Qa‘dah, 9th day" },
+    { "id": "a4", "text": "Muharram, 10th day" }
+  ],
+  "correctIndex": 3,
+  "category": "Fasting",
+  "difficulty": "medium"
 }
 ]
