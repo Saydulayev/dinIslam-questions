@@ -505,5 +505,96 @@
   "correctIndex": 1,
   "category": "Qur'an",
   "difficulty": "medium"
+},
+  {
+  "id": "q40",
+  "text": "He was born in 773 AH and died in 852 AH. A scholar, jurist, and muhaddith who authored 'Bulugh al-Maram', one of the best books on fiqh. Who is he?",
+  "answers": [
+    { "id": "a1", "text": "Az-Zuhri" },
+    { "id": "a2", "text": "Al-Qurtubi" },
+    { "id": "a3", "text": "Az-Zahabi" },
+    { "id": "a4", "text": "Al-Asqalani" }
+  ],
+  "correctIndex": 3,
+  "category": "Islamic Scholars",
+  "difficulty": "medium"
+},
+{
+  "id": "q41",
+  "text": "Hadith in Sahih Muslim (meaning): Do not bathe in still water while being in a state of…",
+  "answers": [
+    { "id": "a1", "text": "Intoxication" },
+    { "id": "a2", "text": "Concussion" },
+    { "id": "a3", "text": "Insanity" },
+    { "id": "a4", "text": "Major impurity (Janabah)" }
+  ],
+  "correctIndex": 3,
+  "category": "Fiqh",
+  "difficulty": "easy"
+},
+{
+  "id": "q42",
+  "text": "Hadith from Ibn Majah (meaning): We are allowed to eat two types of dead animals. Which ones?",
+  "answers": [
+    { "id": "a1", "text": "Wild donkey and hyena" },
+    { "id": "a2", "text": "Lizard and crocodile" },
+    { "id": "a3", "text": "Camel and sheep" },
+    { "id": "a4", "text": "Locust and fish" }
+  ],
+  "correctIndex": 3,
+  "category": "Halal and Haram",
+  "difficulty": "medium"
+},
+{
+  "id": "q43",
+  "text": "Hadith from Ibn Hibban (meaning): As a result of what does the skin of a dead animal become pure?",
+  "answers": [
+    { "id": "a1", "text": "Boiling" },
+    { "id": "a2", "text": "Washing with earth and sand" },
+    { "id": "a3", "text": "Tanning" },
+    { "id": "a4", "text": "Drying under the sun" }
+  ],
+  "correctIndex": 2,
+  "category": "Fiqh",
+  "difficulty": "medium"
+},
+{
+  "id": "q44",
+  "text": "The supplication recited at the beginning of the prayer is called…",
+  "answers": [
+    { "id": "a1", "text": "Qunut" },
+    { "id": "a2", "text": "Iftirash" },
+    { "id": "a3", "text": "Istiftah" },
+    { "id": "a4", "text": "Tawarruk" }
+  ],
+  "correctIndex": 2,
+  "category": "Salah",
+  "difficulty": "medium"
+},
+{
+  "id": "q45",
+  "text": "In Salah, Jalsat al-Istirahah refers to…",
+  "answers": [
+    { "id": "a1", "text": "Sitting between the two prostrations" },
+    { "id": "a2", "text": "Sitting briefly after the second prostration before standing up" },
+    { "id": "a3", "text": "Pausing after rising from ruku‘" },
+    { "id": "a4", "text": "Raising hands in supplication for repentance" }
+  ],
+  "correctIndex": 1,
+  "category": "Salah",
+  "difficulty": "medium"
+},
+{
+  "id": "q46",
+  "text": "Hadith by ad-Darimi and al-Hakim: Whoever recites 100 verses at night in prayer will not be recorded among the heedless, and whoever recites 200 will be recorded among the sincere servants of Allah. Which prayer is this?",
+  "answers": [
+    { "id": "a1", "text": "Maghrib" },
+    { "id": "a2", "text": "Isha" },
+    { "id": "a3", "text": "Tahajjud" },
+    { "id": "a4", "text": "Two rak‘ahs of Sunnah before Fajr" }
+  ],
+  "correctIndex": 2,
+  "category": "Salah",
+  "difficulty": "medium"
 }
 ]
